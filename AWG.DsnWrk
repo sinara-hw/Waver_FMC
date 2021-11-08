@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=AWG_DAC_PSU\FMC_AWG_DAC_PSU.PrjPCB
+[Project2]
+ProjectPath=PCB\FMC_DAC_1_5GS_4CH.PrjPCB
+[Project3]
+ProjectPath=..\..\Sinara_ALTIUM\EEMs\Fast_Servo\Fast_Servo\PCB\Fast_Servo.PrjPCB
