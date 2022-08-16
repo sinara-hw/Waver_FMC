@@ -42,6 +42,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Standard
 
 [Preferences]
 PrefsVaultGUID=
@@ -114,6 +115,15 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OAZEISFM
+
+[ProjectVariant1]
+UniqueID=F2EFDBA6-21C2-4CDF-AFEE-7DFE30636921
+Description=Standard
+AllowFabrication=0
+ParameterCount=0
+VariationCount=1
+Variation1=Designator=R211|UniqueId=\UCZJAIWK|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for FMC_AWG_DAC_PSU\Design Rule Check - FMC_AWG_DAC_PSU.html
@@ -251,7 +261,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=hp deskjet 920c
+TargetPrinter=Brother DCP-1610W series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
