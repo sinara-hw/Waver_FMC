@@ -42,6 +42,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Standard
 
 [Preferences]
 PrefsVaultGUID=
@@ -370,6 +371,17 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OAZEISFM
 
+[ProjectVariant1]
+UniqueID=944DC8A3-1EE1-47B0-8148-5F0B90145444
+Description=Standard
+AllowFabrication=0
+ParameterCount=0
+VariationCount=3
+Variation1=Designator=R211|UniqueId=\ZJRIXMGF\UCZJAIWK|Kind=1|AlternatePart= 
+Variation2=Designator=R5|UniqueId=\ZMYJQEUV\IZWAHADV\RAKVZGLJ|Kind=1|AlternatePart= 
+Variation3=Designator=IC2|UniqueId=\ZMYJQEUV\HUZEBQTS\MMJYBZBN|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -502,7 +514,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=hp deskjet 920c
+TargetPrinter=Brother DCP-1610W series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
